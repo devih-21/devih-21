@@ -15,7 +15,7 @@ Normal student from Post and Telecommuication Institute of Technology, Hanoi, Vi
 
 --> For work please send via email: vinh20112001@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devih-21&theme=radical&show_icons=true)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devih-21&theme=radical&show_icons=true) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devih-21&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ## 📈 Github Stats
