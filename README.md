@@ -14,26 +14,16 @@ Normal student from Post and Telecommuication Institute of Technology, Hanoi, Vi
 - ⚡ Fun fact: No.
 
 --> For work please send via email: vinh20112001@gmail.com
+### Badges
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devih-21&theme=radical&show_icons=true) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devih-21&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<b>My GitHub Stats</b>
 
-<!-- ## 📈 Github Stats
+<a href="https://github.com/devih-21" align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devih-21&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<!-- <details>
-  <summary>📊 GitHub Profile Stats</summary>
-  <br/>
-  <a href="https://github.com/devih-21/github-readme-stats"><img alt="Khuat Quang Vinh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devih-21&show_icons=true&count_private=true&hide=" /></a>
-</details>
+<a href="http://www.github.com/devih-21" style="float: left;"><img src="https://github-readme-stats.vercel.app/api?username=devih-21&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="devih-21's GitHub stats" /></a>
 
-<details> 
-  <summary>💻 Most used languages</summary>
-  <br/>
-  <a href="https://github.com/devih-21/github-readme-stats"><img alt="Khuat Quang Vinh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devih-21&langs_count=10&layout=compact#" /></a>
-  <br/>
-  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
-</details> -->
+<a href="http://www.github.com/devih-21" style="float: right;"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=devih-21&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
------
-<!-- Credits: [devih-21](https://github.com/devih-21) -->
+<a href="http://www.github.com/devih-21"><img src="https://activity-graph.herokuapp.com/graph?username=devih-21&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
