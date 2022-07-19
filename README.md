@@ -4,7 +4,7 @@ Normal student from Post and Telecommuication Institute of Technology, Hanoi, Vi
 
 :mailbox: Reach me out!
 
-[![FaceBook Badge](https://img.shields.io/badge/-Vinh Khuat-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/ptit.devih/) [![Mail Badge](https://img.shields.io/badge/-@__21_01-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/__21_01/) [![Mail Badge](https://img.shields.io/badge/-devih_21-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vinh20112001@gmail.com)
+[![FaceBook Badge](https://img.shields.io/badge/-Vinh%20Khuat-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/ptit.devih/) [![Mail Badge](https://img.shields.io/badge/-@__21_01-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/__21_01/) [![Mail Badge](https://img.shields.io/badge/-devih_21-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vinh20112001@gmail.com)
 
 - 🔭 I’m currently working as a `FE Developer`.
 - 🌱 I’m currently learning `FE`, `BE` and blablaaa.
