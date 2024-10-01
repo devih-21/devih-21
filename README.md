@@ -6,12 +6,11 @@ Normal student from Post and Telecommuication Institute of Technology, Hanoi, Vi
 
 [![FaceBook Badge](https://img.shields.io/badge/-Vinh%20Khuat-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/ptit.devih/) [![Mail Badge](https://img.shields.io/badge/-@__vih_21_01-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/__vih_21_01/) [![Mail Badge](https://img.shields.io/badge/-Vinh%20Khuat-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:vinh20112001@gmail.com)
 
-- 🔭 I’m currently working as a `FE Developer`.
-- 🌱 I’m currently learning `FE`, `BE` and blablaaa.
-- 🤔 I’m looking for help with `FE`.
+- 🔭 I’m currently working as a `Data Engineer` and `Software Engineer`.
+- 🌱 I’m currently learning cloud as `AWS` and blablaaa.
 - 💬 Ask me about... anything also, if i have time.
 - 😄 Pronouns: If others can do, I also can do?.
-- ⚡ Fun fact: No.
+- ⚡ Fun fact: I very need some sleep.
 
 --> For work please send via email: vinh20112001@gmail.com
 ### Badges
