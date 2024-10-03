@@ -9,7 +9,7 @@ Normal student from Post and Telecommuication Institute of Technology, Hanoi, Vi
 - 🔭 I’m currently working as a `Data Engineer` and `Software Engineer`.
 - 🌱 I’m currently learning cloud as `AWS` and blablaaa.
 - 💬 Ask me about... anything also, if i have time.
-- 😄 Pronouns: If others can do, I also can do?.
+- 😄 Pronouns: If others can do, I also can sleep?.
 - ⚡ Fun fact: I very need some sleep.
 
 --> For work please send via email: vinh20112001@gmail.com
